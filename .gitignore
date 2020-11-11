@@ -1,0 +1,4 @@
+/application/logs/
+.idea
+node_modules
+vendor
